@@ -1,0 +1,1 @@
+HTML boilerplate file to be used when creating new HTML document.
